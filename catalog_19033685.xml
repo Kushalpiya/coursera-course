@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/css" href="catalog_19033685.css"?>
+<!-- <!DOCTYPE musicStore SYSTEM "catalog_19033685.dtd"> -->
+<musicStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalog_19033685.xsd">
+    <top_header>
+        <header_left>
+            <header_leftimage/>
+            <header_leftcontent address="A01">Gongabu,Kathmandu</header_leftcontent>
+        </header_left>
+        <header_middle>
+            <header_middleimage/>
+            <header_middlecontent web="W2">http://www.programusic.com</header_middlecontent>
+        </header_middle>
+        <header_right>
+            <header_rightimage/>
+            <header_rightcontent contact="Phone">+977 9841414141</header_rightcontent>
+        </header_right>
+    </top_header>
+    <header>
+        <logo/>
+        <slogandiv>
+            <slogan>
+                Let the
+                <span>Music</span>
+                Speak!
+            </slogan>
+        </slogandiv>
+        <abs/>
+    </header>
+    <banner>
+        <banner_content>PROGRAMUSIC</banner_content>
+    </banner>
+    <banner_info>
+        Note: Hover on the cards to see the awards.
+    </banner_info>
+    <song>
+        <songs id="S01">
+            <coverPhoto song="C1"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Despacito</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Pop</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>Mauricio Rengifo</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Luis Fonsi</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">2017</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>4mins 42seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>Grammy Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Kids' Choice Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Billboard Music Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>American Music Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>iHeartRadio Music Award</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S02">
+            <coverPhoto song="C2"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Dynamite</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Pop</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>David Stewart</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>BTS</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">2020</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>3mins 44seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>People's Choice Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Golden Disc Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Mnet Asian Music Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>MTV Europe Music Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Kids' Choice Award</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S03">
+            <coverPhoto song="C3"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Can't Help Falling In Love</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Pop</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>Elvis Presley</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Elvis Presley</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">1961</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>2mins 59seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>Grammy Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Kids Choice Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Billboard Music Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>American Music Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>iHeartRadio Music Award</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S04">
+            <coverPhoto song="C4"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>So What</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Jazz</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>Teo Macero</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Miles Davis</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">1959</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>9mins 22seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>Best Large Jazz Ensemble Album</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Grammy Hall of Fame</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Porin Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>American Book Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>NAACP Image Award</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S05">
+            <coverPhoto song="C5"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>God Gave Me You</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Country Music</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>David Barnes</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Blake Shelton</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">2011</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>3mins 48seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>Vocal Event of the Year</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Male Vocalist of the Year</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Song of the Year</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Album of the Year</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Single of the Year</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S06">
+            <coverPhoto song="C6"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Hit 'Em Up</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>HipHop</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>Johnny "J"</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Tupac Shakur</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">1996</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>5mins 22seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <nametitle>No Awards :(</nametitle>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S07">
+            <coverPhoto song="C7"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Uptown Funk</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Funk</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>Mark Ronson</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Bruno Mars</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">2014</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>4mins 30seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>Grammy Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Grammy Award for Best Pop</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Best Male Video</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>ACUM Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>iHeartRadio Music Award</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S08">
+            <coverPhoto song="C8"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Here Comes the Sun</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Folk-Pop</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>George Martin</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>The Beatles</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">1969</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>3mins 6seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>US Billboard Hot Rock Songs</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>UK Singles Chart</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Canadian MLS Singles</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S09">
+            <coverPhoto song="C9"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Sign of The Times</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Pop</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>George Martin</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Harry Styles</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">2017</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>5mins 41seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>British Video of the Year</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>iHeartRadio Music Award for Best Music Video</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S10">
+            <coverPhoto song="C10"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Adore You</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Pop</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>Kid Harpoon</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Harry Styles</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">2019</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>4mins 38seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>American Music Awards</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Billboard Music Awards</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>BMI Film &amp; TV Awards</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>American Music Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>iHeartRadio Music Award</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S11">
+            <coverPhoto song="C11"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Never Not</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Pop</genre>
+                    </info2>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Lauv</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">2018</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>3mins 28seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>Gawad Urian Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Kids Choice Award</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S12">
+            <coverPhoto song="C12"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Boulevard of Broken Dreams</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Alternative rock</genre>
+                    </info2>
+                    <info3>
+                        <nametitle>Producer:</nametitle>
+                        <producerName>Rob Cavallo</producerName>
+                    </info3>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>GreenDay</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">2004</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>4mins 48seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>MTV Video Music</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>MTV Video Music</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Grammy Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>MuchMusic Video </name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>MTV Video Music</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S13">
+            <coverPhoto song="C13"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Satayera Fakaune Bani Timro</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>HipHop</genre>
+                    </info2>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>GXSOUL</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">2012</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>4mins 09seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <nametitle>No Awards :(</nametitle>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S14">
+            <coverPhoto song="C14"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Kehi Mitho Bata Gara</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Classical</genre>
+                    </info2>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Narayan Gopal</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">1988</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>5mins 30seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>Best Composition</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Best Singer</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Gorkha Dakshin Bahu</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Ratna Record Award</name>
+                        </award1>
+                        <award1>
+                            <image/>
+                            <name>Urbashi Rang Award</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+        <songs id="S15">
+            <coverPhoto song="C15"/>
+            <songgrid>
+                <songDescription>
+                    <info1>
+                        <nametitle>Song Name:</nametitle>
+                        <name>Timi Hau Lakhau Ko Dhadkan</name>
+                    </info1>
+                    <info2>
+                        <nametitle>Genre:</nametitle>
+                        <genre>Pop</genre>
+                    </info2>
+                    <info4>
+                        <nametitle>Singer:</nametitle>
+                        <singer>Nabin K Bhattarai</singer>
+                    </info4>
+                    <info5>
+                        <nametitle>Release Date:</nametitle>
+                        <releaseYear releaseDate="year">2005</releaseYear>
+                    </info5>
+                    <info6>
+                        <nametitle>Time Length:</nametitle>
+                        <timeLength>3mins 31seconds</timeLength>
+                    </info6>
+                </songDescription>
+                <award>
+                    <info>
+                        <nametitle>Awards:</nametitle>
+                        <award1>
+                            <image/>
+                            <name>Ratna Record Award</name>
+                        </award1>
+                    </info>
+                </award>
+            </songgrid>
+        </songs>
+    </song>
+</musicStore>

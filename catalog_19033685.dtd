@@ -1,0 +1,48 @@
+<!ELEMENT musicStore (top_header,header,banner,banner_info,song)>
+<!ELEMENT top_header (header_left,header_middle,header_right)>
+<!ELEMENT header_left (header_leftimage,header_leftcontent)>
+<!ELEMENT header_leftimage (#PCDATA)>
+<!ELEMENT header_leftcontent (#PCDATA)>
+<!ELEMENT header_middle (header_middleimage,header_middlecontent)>
+<!ELEMENT header_middleimage (#PCDATA)>
+<!ELEMENT header_middlecontent (#PCDATA)>
+<!ELEMENT header_right (header_rightimage,header_rightcontent)>
+<!ELEMENT header_rightimage (#PCDATA)>
+<!ELEMENT header_rightcontent (#PCDATA)>
+<!ELEMENT header (logo,slogandiv,abs)>
+<!ELEMENT logo (#PCDATA)>
+<!ELEMENT abs (#PCDATA)>
+<!ELEMENT slogandiv (slogan)>
+<!ELEMENT slogan (#PCDATA | span)*>
+<!ELEMENT span (#PCDATA)>
+<!ELEMENT banner (banner_content)>
+<!ELEMENT banner_content (#PCDATA)>
+<!ELEMENT banner_info (#PCDATA) >
+<!ELEMENT song (songs+)>
+<!ELEMENT songs (coverPhoto,songgrid)>
+<!ELEMENT coverPhoto (#PCDATA)>
+<!ELEMENT songgrid (songDescription,award?)>
+<!ELEMENT songDescription (info1,info2?,info3?,info4?,info5?,info6)>
+<!ELEMENT info1 (nametitle,name)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT info2 (nametitle,genre)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT info3 (nametitle,producerName)>
+<!ELEMENT producerName (#PCDATA)>
+<!ELEMENT info4 (nametitle,singer)>
+<!ELEMENT singer (#PCDATA)>
+<!ELEMENT info5 (nametitle,releaseYear)>
+<!ELEMENT releaseYear (#PCDATA)>
+<!ELEMENT info6 (nametitle,timeLength)>
+<!ELEMENT timeLength (#PCDATA)>
+<!ELEMENT nametitle (#PCDATA)>
+<!ELEMENT award (nametitle?,info?)>
+<!ELEMENT info (nametitle,award1*)>
+<!ELEMENT award1 (image,name)>
+<!ELEMENT image (#PCDATA)>
+<!ATTLIST header_leftcontent address CDATA #REQUIRED>
+<!ATTLIST header_middlecontent web CDATA #REQUIRED>
+<!ATTLIST header_rightcontent contact CDATA #REQUIRED>
+<!ATTLIST songs id CDATA #REQUIRED>
+<!ATTLIST coverPhoto song CDATA #IMPLIED>
+<!ATTLIST releaseYear releaseDate CDATA #IMPLIED>
